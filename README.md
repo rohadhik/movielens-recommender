@@ -1,11 +1,12 @@
 # movielens-recommender
 
-This implementation was part of a final project for a graduate course in Data Analytics at the University of Toronto (Winter term, 2016). 
+This implementation was part of a final project for a graduate course in Data Analytics at the University
+
 Our group set out to create a movie recommendation engine that would recommend movies that would have a high chance of being enjoyed by the user.
 
 ## Background
 
-This was a final project for a graduate course offered in the Winter Term (January-April, 2016) at the University of Toronto, Faculty of Information: INF2190 Data Analytics: Introduction, Methods, and Practical Approaches. 
+This was a final project for a graduate course offered , Faculty of Information: INF2190 Data Analytics: Introduction, Methods, and Practical Approaches. 
 Our group's full tech stack for this project was expressed in the acronym *MIPAW*: MySQL, IBM SPSS Modeler, Python, AWS, and Weka.
 
 Running the model on the millions of MovieLens ratings data produced movie recommendations where >85% of the films would have been received with favorable ratings.
